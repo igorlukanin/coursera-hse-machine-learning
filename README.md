@@ -17,3 +17,8 @@ Pandas for data preconditioning:
 - [04-pandas-data-preconditioning-04.py](week1/lesson3/04-pandas-data-preconditioning-04.py)
 - [04-pandas-data-preconditioning-05.py](week1/lesson3/04-pandas-data-preconditioning-05.py)
 - [04-pandas-data-preconditioning-06.py](week1/lesson3/04-pandas-data-preconditioning-06.py)
+
+### Lesson 4: Decision Trees
+
+Decision tree feature importances:
+- [01-sklearn-decision-tree-feature-importances.py](week1/lesson4/01-sklearn-decision-tree-feature-importances.py)

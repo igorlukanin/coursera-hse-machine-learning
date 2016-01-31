@@ -29,7 +29,7 @@ femaleFirstNamesCounts = femaleFirstNames.value_counts()
 mostFrequentFemaleFirstName = femaleFirstNamesCounts.head(1).keys()[0]
 
 print()
-print(mostFrequentFemaleFirstName)
+print('Most frequent female first name:', mostFrequentFemaleFirstName)
 
 file = open('04-result-06.txt', 'w')
 print(mostFrequentFemaleFirstName, file=file, sep='', end='')
