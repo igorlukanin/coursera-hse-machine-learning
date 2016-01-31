@@ -18,7 +18,18 @@ Pandas for data preconditioning:
 - [04-pandas-data-preconditioning-05.py](week1/lesson3/04-pandas-data-preconditioning-05.py)
 - [04-pandas-data-preconditioning-06.py](week1/lesson3/04-pandas-data-preconditioning-06.py)
 
+**Lesson Insights**
+- There were 577 males & 314 females aboard Titanic.
+- Only 38 % survived.
+- 24 % of all passengers had 1st class tickets.
+- Average age was 29.7, while median is 28.
+- Particular person's number of siblings/spouses aboard Titanic doesn't correlate with number of parents/children (coefficient = 0.41).
+- The most frequent female first name is Anna (second frequent name is Mary).
+
 ### Lesson 4: Decision Trees
 
 Decision tree feature importances:
 - [01-sklearn-decision-tree-feature-importances.py](week1/lesson4/01-sklearn-decision-tree-feature-importances.py)
+
+**Lesson Insights**
+- Females & passengers with the most expensive tickets had the most chance to survive.
