@@ -1,4 +1,4 @@
-# Machine Learning Course
+# [Machine Learning Course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/home/welcome) on Coursera
 by Higher School of Economics & Yandex Data School
 
 ## Week 1: Introduction to Data Analysis & Machine Learning
