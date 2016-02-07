@@ -32,6 +32,8 @@ Decision tree feature importances: [01-sklearn-decision-tree-feature-importances
 
 kNN method for classification, k parameter determination: [01-neighbours-number-determination.py](week2/lesson1/01-neighbours-number-determination.py)
 
+kNN method for regression, metric determination: [02-metric-determination.py](week2/lesson1/02-metric-determination.py)
+
 ### Lesson 2: Linear Methods for Classification
 
-kNN method for regression, metric determination: [02-metric-determination.py](week2/lesson1/02-metric-determination.py)
+Feature normalization for classification with Perceptron: [01-feature-normalization.py](week2/lesson2/01-feature-normalization.py)
