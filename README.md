@@ -30,8 +30,8 @@ Decision tree feature importances: [01-sklearn-decision-tree-feature-importances
 
 ### Lesson 1: Metric Methods for Classification
 
-K nearest neighbours method: [01-neighbours-number-determination.py](week2/lesson1/01-neighbours-number-determination.py)
+kNN method for classification, k parameter determination: [01-neighbours-number-determination.py](week2/lesson1/01-neighbours-number-determination.py)
 
 ### Lesson 2: Linear Methods for Classification
 
-```// TODO```
+kNN method for regression, metric determination: [02-metric-determination.py](week2/lesson1/02-metric-determination.py)
