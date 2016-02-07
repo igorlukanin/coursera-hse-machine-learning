@@ -1,7 +1,7 @@
 # [Machine Learning Course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/home/welcome) on Coursera
 by Higher School of Economics & Yandex Data School
 
-## Week 1: Introduction to Data Analysis & Machine Learning
+## Week 1
 
 ### Lesson 3: Introduction to Tools
 
@@ -25,3 +25,13 @@ Pandas for data preconditioning:
 Decision tree feature importances: [01-sklearn-decision-tree-feature-importances.py](week1/lesson4/01-sklearn-decision-tree-feature-importances.py)
 
 **Lesson Insights**: Females & passengers with the most expensive tickets had the most chance to survive.
+
+## Week 2
+
+### Lesson 1: Metric Methods for Classification
+
+K nearest neighbours method: [01-neighbours-number-determination.py](week2/lesson1/01-neighbours-number-determination.py)
+
+### Lesson 2: Linear Methods for Classification
+
+```// TODO```
