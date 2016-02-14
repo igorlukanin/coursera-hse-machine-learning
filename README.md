@@ -37,3 +37,9 @@ kNN method for regression, metric determination: [02-metric-determination.py](we
 ### Lesson 2: Linear Methods for Classification
 
 Feature normalization for classification with Perceptron: [01-feature-normalization.py](week2/lesson2/01-feature-normalization.py)
+
+## Week 3
+
+### Lesson 1: Support Vector Machine
+
+Support vector selection: [01-svm.py](week3/lesson1/01-svm.py)
