@@ -44,3 +44,7 @@ Feature normalization for classification with Perceptron: [01-feature-normalizat
 
 Support vector selection: [01-svm.py](week3/lesson1/01-svm.py)
 Text analysis: [02-text-analysis.py](week3/lesson1/02-text-analysis.py)
+
+### Lesson 2: Logistic Regression
+
+Logistic regression & AUC-ROC score calculation: [01-logistic-regression.py](week3/lesson2/01-logistic-regression.py)
