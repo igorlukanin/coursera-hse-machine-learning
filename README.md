@@ -48,3 +48,7 @@ Text analysis: [02-text-analysis.py](week3/lesson1/02-text-analysis.py)
 ### Lesson 2: Logistic Regression
 
 Logistic regression & AUC-ROC score calculation: [01-logistic-regression.py](week3/lesson2/01-logistic-regression.py)
+
+### Lesson 3: Quality Metrics
+
+Basic & complex metrics calculations: [01-score-metrics.py](week3/lesson3/01-score-metrics.py)
