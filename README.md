@@ -57,4 +57,8 @@ Basic & complex metrics calculations: [01-score-metrics.py](week3/lesson3/01-sco
 
 ### Lesson 1: Linear Regression
 
-Ridge regression for sparse features: [01-ridge-regression.py](week4/lesson1/01-ridge-regression.py)
+Ridge regression of sparse features: [01-ridge-regression.py](week4/lesson1/01-ridge-regression.py)
+
+### Lesson 2: Principal Component Analysis
+
+Dow Jones index analysis: [01-principal-components.py](week4/lesson2/01-principal-components.py)
