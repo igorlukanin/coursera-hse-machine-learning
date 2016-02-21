@@ -52,3 +52,9 @@ Logistic regression & AUC-ROC score calculation: [01-logistic-regression.py](wee
 ### Lesson 3: Quality Metrics
 
 Basic & complex metrics calculations: [01-score-metrics.py](week3/lesson3/01-score-metrics.py)
+
+## Week 4
+
+### Lesson 1: Linear Regression
+
+Ridge regression for sparse features: [01-ridge-regression.py](week4/lesson1/01-ridge-regression.py)
