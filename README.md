@@ -62,3 +62,9 @@ Ridge regression of sparse features: [01-ridge-regression.py](week4/lesson1/01-r
 ### Lesson 2: Principal Component Analysis
 
 Dow Jones index analysis: [01-principal-components.py](week4/lesson2/01-principal-components.py)
+
+## Week 5
+
+### Lesson 1: Composition of Algorithms
+
+Random forest size calculation: [01-random-forest-size.py](week5/lesson1/01-random-forest-size.py)
