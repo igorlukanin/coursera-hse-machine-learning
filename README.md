@@ -68,3 +68,4 @@ Dow Jones index analysis: [01-principal-components.py](week4/lesson2/01-principa
 ### Lesson 1: Composition of Algorithms
 
 Random forest size calculation: [01-random-forest-size.py](week5/lesson1/01-random-forest-size.py)
+Gradient boosting vs. random forest comparison: [02-gradient-boosting.py](week5/lesson1/02-gradient-boosting.py)
