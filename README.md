@@ -70,3 +70,9 @@ Dow Jones index analysis: [01-principal-components.py](week4/lesson2/01-principa
 Random forest size calculation: [01-random-forest-size.py](week5/lesson1/01-random-forest-size.py)
 
 Gradient boosting vs. random forest comparison: [02-gradient-boosting.py](week5/lesson1/02-gradient-boosting.py)
+
+## Week 6
+
+### Lesson 1: Clustering & Visualization
+
+Image color count reduction: [01-image-color-count-reduction.py](week6/lesson1/01-image-color-count-reduction.py)
