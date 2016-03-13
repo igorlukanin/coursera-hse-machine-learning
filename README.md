@@ -76,3 +76,9 @@ Gradient boosting vs. random forest comparison: [02-gradient-boosting.py](week5/
 ### Lesson 1: Clustering & Visualization
 
 Image color count reduction: [01-image-color-count-reduction.py](week6/lesson1/01-image-color-count-reduction.py)
+
+## Week 7
+
+### Dota 2 match winner prediction
+
+Gradient boosting: [01-gradient-boosting.py](week7/lesson1/01-gradient-boosting.py)
