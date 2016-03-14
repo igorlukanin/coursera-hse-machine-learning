@@ -79,6 +79,8 @@ Image color count reduction: [01-image-color-count-reduction.py](week6/lesson1/0
 
 ## Week 7
 
-### Dota 2 match winner prediction
+### Dota 2 Win Probability Prediction
 
 Gradient boosting & logistic regression: [01-solution.py](week7/lesson1/01-solution.py)
+
+See my results [on Kaggle](https://www.kaggle.com/igorlukanin/results).
