@@ -81,4 +81,4 @@ Image color count reduction: [01-image-color-count-reduction.py](week6/lesson1/0
 
 ### Dota 2 match winner prediction
 
-Gradient boosting: [01-gradient-boosting.py](week7/lesson1/01-gradient-boosting.py)
+Gradient boosting & logistic regression: [01-solution.py](week7/lesson1/01-solution.py)
