@@ -1,6 +1,10 @@
 # [Machine Learning Course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/home/welcome) on Coursera
 by Higher School of Economics & Yandex Data School
 
+_I've completed the course in March, 2016 with the 100 % score._
+
+<img src="https://raw.githubusercontent.com/igorlukanin/coursera-hse-machine-learning/master/score.png">
+
 ## Week 1
 
 ### Lesson 3: Introduction to Tools
@@ -84,3 +88,5 @@ Image color count reduction: [01-image-color-count-reduction.py](week6/lesson1/0
 Gradient boosting & logistic regression: [01-solution.py](week7/lesson1/01-solution.py)
 
 See my results [on Kaggle](https://www.kaggle.com/igorlukanin/results).
+
+<img src="https://raw.githubusercontent.com/igorlukanin/coursera-hse-machine-learning/master/final-assignment-comments.png">
